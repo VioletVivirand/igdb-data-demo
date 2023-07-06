@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "igdb-data-demo"
+version = "0.1.0"
+description = ""
+authors = ["Violet Vivirand <purpleslovemail@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.25.0"
+pandas = "^2.0.2"
+requests = "^2.31.0"
+httpx = "^0.24.1"
+aiohttp = "^3.8.4"
+aiometer = "^0.4.0"
+python-dotenv = "^1.0.0"
+pendulum = "^2.1.2"
+
+[tool.poetry.dev-dependencies]
+ipython = "^8.14.0"
+rich = "^13.4.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
