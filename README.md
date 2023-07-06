@@ -30,4 +30,4 @@ The Legend of Zelda. Publishers: Nintendo. Platforms: Nintendo Switch. Game Mode
 
 Syntax:
 
-`Title: "[game.name]" Summary: [game.summary]. Released on [game.first_release_date]. Publishers: [company.name]. Platforms: [platforms.name]. Game Modes: [game_modes.name]. Genre: [genres.name]. Themes: [themes.name]. Player Perspectives: [player_perspectives.name]
+`Title: "[game.name]" Summary: [game.summary]. Released on [game.first_release_date]. Publishers: [company.name]. Platforms: [platforms.name]. Game Modes: [game_modes.name]. Genre: [genres.name]. Themes: [themes.name]. Player Perspectives: [player_perspectives.name]`
